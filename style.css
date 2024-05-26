@@ -14,7 +14,7 @@
 /* 2. FONDO DE PÁGINA */
 /* Estilos relacionados con el fondo de la página */
 body {
-    background: url(fondo.jpg) 0 0 no-repeat fixed;
+    background: url('https://images.pexels.com/photos/3552948/pexels-photo-3552948.jpeg') 0 0 no-repeat fixed;
     background-size: cover;
 }
 
