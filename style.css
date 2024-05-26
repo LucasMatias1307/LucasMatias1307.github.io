@@ -14,7 +14,7 @@
 /* 2. FONDO DE PÁGINA */
 /* Estilos relacionados con el fondo de la página */
 body {
-    background: url(img/fondo.jpg) 0 0 no-repeat fixed;
+    background: url(fondo.jpg) 0 0 no-repeat fixed;
     background-size: cover;
 }
 
